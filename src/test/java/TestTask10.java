@@ -14,7 +14,7 @@ public class TestTask10 {
     WebDriver driver;
 
     @BeforeMethod
-    public void setUpClass() throws InterruptedException {
+    public void setUpClass() {
 
         System.setProperty("webdriver.chrome.driver", "c:/selenium/chromedriver.exe");
         driver = new ChromeDriver();
