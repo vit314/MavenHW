@@ -30,7 +30,7 @@ public class TestTask10 {
     }
 
     @Test
-    public void testW () {
+    public void testW3School () {
 
         driver.get("https://www.w3schools.com/");
 
