@@ -44,10 +44,5 @@ public class TestTask10 {
         String expectedTitle = "Java Tutorial";
 
         Assert.assertEquals(actualTitle, expectedTitle);
-
-
-
     }
-
-
 }
